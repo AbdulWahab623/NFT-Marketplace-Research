@@ -1,8 +1,8 @@
 
  <!-- Headings -->
 
-# Marketplace Research Document 
-# Marketplace Name "LooksRare"
+# Marketplace Research Document  "LooksRare"
+
 "Rarible"
 <br>
 
