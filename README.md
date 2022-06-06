@@ -1,11 +1,9 @@
 # NFT-Marketplace-Research
-Research on NFT Marketplace "Rarible"
-
 
  <!-- Headings -->
 
 # Marketplace Research Document
-
+"Rarible"
 <br>
 
 ## **Team** :
