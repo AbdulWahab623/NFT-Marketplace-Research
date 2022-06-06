@@ -32,9 +32,9 @@ LooksRare is a completely decentralized entity.
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
 | **Supported Blockchains :**         | Ethereum
-| **Payment Methods :**               | _Ether
-| **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Payment Methods :**               | Ether
+| **Buyer Fee :**                     | 0%
+| **Seller Fee :**                    |2%
 | **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Listing Type/ Selling Methods :** | _lorem ipsum,lorem ipsum,_       |
 | **Categories :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
