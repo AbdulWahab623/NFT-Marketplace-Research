@@ -12,38 +12,16 @@
 
 | _Name :_                |        _Email :_         | _Role :_ |
 | :---------------------- | :----------------------: | -------: |
-| _Ali Wisam_             |     *demo@gmail.com*     |   Leader |
-| _Hasan sattar_          |     *demo@gmail.com*     |  No Role |
-| _Zeeshan Ahmad_         |     *demo@gmail.com*     |  No Role |
-| _Burhan Saleemi_        |     *demo@gmail.com*     |  No Role |
-| _Dr Mutahir Hussain_    |     *demo@gmail.com*     |  No Role |
-| _Muhammad Aquib_        |     *demo@gmail.com*     |  No Role |
-| _Muhammad Jehanzaib_    |     *demo@gmail.com*     |  No Role |
-| _Abdul Wahab_           |     *demo@gmail.com*     |  No Role |
-| _M. Umar Shahid_        |     *demo@gmail.com*     |  No Role |
-| _Asif Ali_              |     *demo@gmail.com*     |  No Role |
-| _Ruwaifa Tahir_         | *ruwaifatahir@gmail.com* |  No Role |
-| _M. Shoaib Latif_       |     *demo@gmail.com*     |  No Role |
-| _Muhammad Adil_         |     *demo@gmail.com*     |  No Role |
-| _Mukarram Ali_          |     *demo@gmail.com*     |  No Role |
-| _Muhammad Kashif Nawaz_ |     *demo@gmail.com*     |  No Role |
-| _Umair Riaz_            |     *demo@gmail.com*     |  No Role |
-| _Zaeem Tariq_           |     *demo@gmail.com*     |  No Role |
-
+| _Abdul Wahab_             |     *awahab8606@gmail.com*     |   Researcher |
 ---
 
 <br>
 
 ## _Introduction_ :
 
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+LooksRare is a decentralized, community-first NFT marketplace that rewards creators, 
+collectors, stakers, and traders for participating on the platform. Unlike OpenSea, 
+LooksRare is a completely decentralized entity.
 
 <br>
 
@@ -53,8 +31,8 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 
 | Parameters :                        | Details :                        |
 | ----------------------------------- | -------------------------------- |
-| **Supported Blockchains :**         | _lorem ipsum,lorem ipsum,lorem,_ |
-| **Payment Methods :**               | _lorem ipsum,lorem ipsum,lorem,_ |
+| **Supported Blockchains :**         | Ethereum
+| **Payment Methods :**               | _Ether
 | **Buyer Fee :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Seller Fee :**                    | _lorem ipsum,lorem ipsum,lorem,_ |
 | **Royalties :**                     | _lorem ipsum,lorem ipsum,lorem,_ |
@@ -74,6 +52,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 | **Regulation :**                    | _lorem ipsum,lorem ipsum,_       |
 | **Company Registration :**          | _lorem ipsum,lorem ipsum,_       |
 | **Community Engagement :**          | _lorem ipsum,lorem ipsum,_       |
+| **Supported Wallets :**             |over 100 wallets using WalletConnectRegistry|
 
 ---
 
