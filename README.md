@@ -1,8 +1,9 @@
 
  <!-- Headings -->
 
-# NFT Marketplace Research Document "Rarible"
-
+# Marketplace Research Document 
+# Marketplace Name "LooksRare"
+"Rarible"
 <br>
 
 ## **Team** :
@@ -41,7 +42,7 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lrem ipsum Lorem ipsum
+Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 
 <br>
