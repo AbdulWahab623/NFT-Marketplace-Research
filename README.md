@@ -19,9 +19,7 @@
 
 ## _Introduction_ :
 
-LooksRare is a decentralized, community-first NFT marketplace that rewards creators, 
-collectors, stakers, and traders for participating on the platform. Unlike OpenSea, 
-LooksRare is a completely decentralized entity.
+Crypto.com NFT Marketplace is a highly-curated platform where you can mint, buy, sell and trade various unique NFTs. You can choose between the following categories Art, Gaming, Music, Sport, Celebrities, and Crypto on this marketplace. It is an excellent place for amateur digital artists.
 
 <br>
 
