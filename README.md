@@ -1,9 +1,9 @@
 
  <!-- Headings -->
 
-# Marketplace Research Document  "LooksRare"
+# Marketplace Research Document  "Crypto.com"
 
-"Rarible"
+"Crypto.com"
 <br>
 
 ## **Team** :
